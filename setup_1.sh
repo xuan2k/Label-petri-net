@@ -1,0 +1,1 @@
+curl -L https://api.github.com/meta | jq -r '.ssh_keys[]'

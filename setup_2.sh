@@ -1,0 +1,1 @@
+echo "github.com ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAID7Cv5nyMF4/HIwE3YOS6HzM4JIMN13iTz+BEURkL6HZ" >> ~/.ssh/known_hosts
